@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinicOio222
-- 👀 I’m interested in FrontEnd Development, Data Science
-- 🌱 I’m currently learning Java,Pyhton,C++,C,SQL
+- 👀 I’m interested in Machine Learning, Data Science
+- 🌱 I’m currently learning Java,Pyhton,C++,C
 - 💞️ I’m looking to collaborate on College Works
 - 📫 How to reach me : My e-mail - mtafg567@gmail.com
 
