@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm @vinicOio222</h1>
 
-- 👀 I’m interested in Machine Learning, Data Science
+- 👀 I’m interested in **Machine Learning, Data Science, Front-End**
 
-- 🌱 I’m currently learning **C/C++, Java, Python**
+- 🌱 I’m currently learning **C/C++, Java, Python, JavaScript(and Frameworks) and Front-End**
 
-- 💞️ I’m looking to collaborate on College Works
+- 💞️ I’m looking to collaborate on **College Works**
 
 - 📫 How to reach me : My e-mail - mtafg567@gmail.com
 
