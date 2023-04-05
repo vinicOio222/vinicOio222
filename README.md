@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @vinicOio222</h1>
+<h1 align="center">Hi 👋, I'm Vinícius</h1>
 
 - 👀 I’m interested in **Machine Learning, Data Science, Front-End**
 
