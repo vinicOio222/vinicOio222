@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in **Machine Learning, Data Science, Front-End**
 
-- 🌱 I’m currently learning **C/C++, Java, Python, JavaScript(and Frameworks) and Front-End**
+- 🌱 I’m currently learning **Blockchain with Web3j and Solidity**
 
 - 💞️ I’m looking to collaborate on **College Works**
 
