@@ -8,14 +8,12 @@
 
 - 📫 How to reach me : My e-mail - mtafg567@gmail.com
 
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">I'm a passionate frontend developer from Brazil</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinicoio222" alt="vinicoio222" /></a> </p>
 
-<h2 align="center">Languages and Tools</h2>
-
-<br clear="both">
-
+<h3 align="center">Languages and Tools</h3>
+<h1></h1>
 <h3 align="center">Back-End</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,8 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-<br clear="both">
-
+<h1></h1>
 <h3 align="center">Front-End</h3>
 
 <div align="center">
@@ -46,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
 </div>
 
-<br clear="both">
+<h1></h1>
 
 <h3 align="center">APIs</h3>
 
@@ -58,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-<br clear="both">
+<h1></h1>
 
 <h3 align="center">Database</h3>
 <div align="center">
@@ -69,7 +66,7 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
 </div>
 
-<br clear="both">
+<h1></h1>
 
 <h3 align="center">Dev Tools<h3>
 
@@ -85,10 +82,11 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-<br clear="both">
+<h1></h1>
 
 <p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicoio222&show_icons=true&locale=en" alt="vinicoio222" /></p>
 
+<h1></h1>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12151635146&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></div>  
 
 <p align = "center"><img src="https://komarev.com/ghpvc/?username=vinicoio222&label=Profile%20views&color=0e75b6&style=flat" alt="vinicoio222" /></p>
