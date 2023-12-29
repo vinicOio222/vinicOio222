@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
 
-- 👀 I’m interested in **Blockchain and Cryptocurrency Development**
+- 👀 I’m interested in **Front-End Development, Blockchain and Cryptocurrency Development**
 
-- 🌱 I’m currently learning **Web3 and Solidity**
+- 🌱 I’m currently learning **ReactJS, Web3 and Solidity**
 
 - 💞️ I’m looking to collaborate on **College Works, Researches and New Projects**
 
