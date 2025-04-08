@@ -88,8 +88,5 @@
 
 <p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicoio222&show_icons=true&locale=en" alt="vinicoio222" /></p>
 
-<h1></h1>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12151635146&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/></div>  
-
 <p align = "center"><img src="https://komarev.com/ghpvc/?username=vinicoio222&label=Profile%20views&color=0e75b6&style=flat" alt="vinicoio222" /></p>
 
