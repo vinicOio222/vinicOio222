@@ -47,12 +47,6 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vinicoio222&theme=onedark&row=1&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=vinicoio222&show_icons=true&theme=dark&hide_title=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicoio222&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicoio222&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
